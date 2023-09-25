@@ -1,0 +1,32 @@
+/* style.css */
+
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, sans-serif;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.button {
+    display: flex;
+    color: black;
+    margin-top: 5%;
+}
+
+.message {
+    display: flex;
+    color:black;
+    padding: 10px;
+}
+
+/* เพิ่มสไตล์เพิ่มเติมตามที่คุณต้องการ */
